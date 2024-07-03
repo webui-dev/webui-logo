@@ -14,6 +14,8 @@ The WebUI logo is inspired by [WASM](https://webassembly.org/), especially the `
 
 ![Logo](webui_260.png)
 
+[webui.svg](webui.svg) (_500 x 500_)
+
 ## WebUI and JavaScript
 
 ![Logo](webui_javascript.png)
@@ -26,6 +28,26 @@ The WebUI logo is inspired by [WASM](https://webassembly.org/), especially the `
 
 ![Logo](webui_python.png)
 
+## WebUI and Nim
+
+![Logo](webui_nim.png)
+
+## WebUI and Bun
+
+![Logo](webui_bun.png)
+
+## WebUI and Deno
+
+![Logo](webui_deno.png)
+
+## WebUI and Swift
+
+![Logo](webui_swift.png)
+
+## WebUI and V
+
+![Logo](webui_v.png)
+
 ## WebUI and Rust
 
 ![Logo](webui_rust.png)
@@ -34,6 +56,14 @@ The WebUI logo is inspired by [WASM](https://webassembly.org/), especially the `
 
 ![Logo](webui_go.png)
 
+## WebUI and Pascal
+
+![Logo](webui_pascal.png)
+
 ## WebUI and C++
 
 ![Logo](webui_cpp.png)
+
+## WebUI and C#
+
+![Logo](webui_csharp.png)
