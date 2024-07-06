@@ -10,6 +10,10 @@ The WebUI logo is inspired by [WASM](https://webassembly.org/), especially the `
 
 ![Logo](webui_128.png)
 
+## 160 x 160 (_Shadow_)
+
+![Logo](webui_160_shadow.png)
+
 ## 260 x 260
 
 ![Logo](webui_260.png)
