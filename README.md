@@ -2,21 +2,19 @@
 
 The WebUI logo is inspired by [WASM](https://webassembly.org/), especially the `WASM` + `JavaScript` logo, where both are put together as a plug-in. While the WASM logo means "_Run a programming language in the web browser_", the WebUI, on the other hand, means "_Run any programming language from the web browser_".
 
-## 64 x 64
+## Inf
 
-![Logo](webui_64.png)
+Color: `#2a6699`
 
-## 128 x 128
+Square size: `500px x 500px`
 
-![Logo](webui_128.png)
+Circle size: `140px x 140px` (_At right midle_)
 
-## 160 x 160 (_Shadow_)
+Text Font: [Red Hat Display ](https://fonts.google.com/specimen/Red+Hat+Display)
 
-![Logo](webui_160_shadow.png)
+## 120 x 120 (_SVG_)
 
-## 260 x 260
-
-![Logo](webui_260.png)
+![Logo](webui_120.svg)
 
 [webui.svg](webui.svg) (_500 x 500_)
 
