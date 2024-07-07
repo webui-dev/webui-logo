@@ -12,6 +12,10 @@ Circle size: `140px x 140px` (_At right midle_)
 
 Text Font: [Red Hat Display ](https://fonts.google.com/specimen/Red+Hat+Display)
 
+## Screenshot
+
+![Logo](screenshot.png)
+
 ## 120 x 120 (_SVG_)
 
 ![Logo](webui_120.svg)
