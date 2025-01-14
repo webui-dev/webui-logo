@@ -73,3 +73,7 @@ Text Font: [Red Hat Display ](https://fonts.google.com/specimen/Red+Hat+Display)
 ## WebUI and C#
 
 ![Logo](webui_csharp.png)
+
+## WebUI and Odin
+
+![Logo](webui_odin.png)
